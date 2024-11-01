@@ -29,6 +29,7 @@ https://dharanchilukuri.github.io/web-design-5/
 .
 .
 .
-Haven't yet implemented these but would like to consider :
+
+Other areas I would like to consider implementing :
 
 mobile first design, cross browser compatibility techniques, SEO, performance optimizations and testing for user flows.
